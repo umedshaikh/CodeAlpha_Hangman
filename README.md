@@ -37,5 +37,3 @@ This project is part of my internship at [CodeAlpha](https://www.codealpha.tech/
 ---
 
 Feel free to fork this or suggest improvements!
-
-	
